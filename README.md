@@ -14,4 +14,11 @@ Giao diện của ứng dụng Advance-NDC-Parser rất đơn giản và dễ s�
 **_Chú ý:_** Bạn cần đảm bảo rằng message được paste vào text field đã đúng định dạng để tránh việc parse message không chính xác.
 
 ## Phiên bản
+
+### Phiên bản 1.0.0
 Đây là phiên bản đầu tiên của Advance-NDC-Parser. Phiên bản này mới chỉ có thể parse các message loại "Transaction Request Message" và chưa thể parse các loại message khác.
+
+### Phiên bản 1.0.1
+Cập nhật ngày 14/5/2023, giao diện người dùng được thêm các định dạng CSS và cấu trúc dự án được thay đổi cho các quá trình bảo trì và vận hành trở nên tiên dụng hơn.
+
+
